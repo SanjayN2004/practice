@@ -1,1 +1,1 @@
-git is a version control system and it is easy to learn.
+Git is a version control system and it is easy to learn.
